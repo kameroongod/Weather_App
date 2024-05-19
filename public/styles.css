@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/nice-snow.png");
+}
+
+.inputForm {
+  display: flex;
+  gap: 5px;
+  justify-content:center;
+}
+
+.footer {
+  display:flex;
+  width:100vw;
+  justify-content:center;
+  text-align: center;
+}
+
+.fixed {
+  position:fixed;
+  top:93%;
+}
+
+.searchBarTitle {
+  text-align:center;
+}
+
+.logo-img {
+  height:50px;
+  width:50px;
+}
